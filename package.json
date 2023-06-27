@@ -21,6 +21,5 @@
     "typescript": "~5.0.4"
   },
   "dependencies": {
-    "source-map-support": "^0.5.21"
   }
 }
